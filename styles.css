@@ -1,0 +1,46 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* this is Navber section */
+.text {
+    color: #181818;
+    font-size: 45px;
+    font-weight: 800px;
+
+}
+
+.rr {
+    color: #FD6E0A;
+}
+
+nav>ul {
+    display: flex;
+    align-items: center;
+}
+
+nav li {
+    list-style: none;
+    margin-right: 50px;
+
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+button {
+    width: 150px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FD6E0A;
+    border: none;
+    color: white;
+    font-size: 20px;
+}
